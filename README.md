@@ -1,6 +1,6 @@
 # kids_stories
 
-A new Flutter project.
+Tamil Kids Stories Flutter App by [VGLUG](https://vglug.org).
 
 ## Getting Started
 
