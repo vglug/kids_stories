@@ -8,7 +8,6 @@ void main() {
 
 class KidsStories extends StatelessWidget {
   const KidsStories({Key? key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
