@@ -10,11 +10,17 @@ class MainPage extends StatefulWidget {
 class _MainPageState extends State<MainPage> {
   @override
   Widget build(BuildContext context) {
-    return Center(
+    return  Center(
       child: Column(
         children: [
-          Text("Main Page"),
-           Text("1 st page"),
+          Column(
+            children: [
+              Text(
+                "Main Page"
+                ),
+            ],
+          ),
+           Text("Kids story2")
         ],
       ),
     );
