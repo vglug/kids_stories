@@ -17,6 +17,9 @@ class _MainPageState extends State<MainPage> {
         children: [
           Text("Main Page"),
           Text("Welcome To All"),
+          TextField(
+            autofocus: true,
+            textAlign: TextAlign.center,)
         ],
       ),
     );
