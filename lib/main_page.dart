@@ -14,9 +14,9 @@ class _MainPageState extends State<MainPage> {
   Widget build(BuildContext context) {
     return Center(
       child: Column(
-        children: [
+        children: const [
           Text("Main Page"),
-          Text("Welcome To All"),
+          Text("hello-buddy"),
         ],
       ),
     );
