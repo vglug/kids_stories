@@ -16,6 +16,9 @@ class _MainPageState extends State<MainPage> {
       child: Column(
         children: const [
           Text("Main Page"),
+          Text("Welcome To All"),
+          TextField(
+          textAlign: TextAlign.center,),
           Text("hello-buddy"),
         ],
       ),
