@@ -13,9 +13,8 @@ class KidsStories extends StatelessWidget {
     return MaterialApp(
       home: const MainPage(),
       theme: ThemeData(
-        primarySwatch: Colors.deepPurple,
+        primarySwatch: Colors.yellow,
       ),
     );
   }
 }
-output
